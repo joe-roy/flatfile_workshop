@@ -1,0 +1,361 @@
+﻿Type,Department,Rank,Gender,Ethnicity,Count
+engineering,Aeronautics & Astronautics,assoc_prof,female,asian,0
+engineering,Aeronautics & Astronautics,assoc_prof,female,black,1
+engineering,Aeronautics & Astronautics,assoc_prof,female,hispanic,0
+engineering,Aeronautics & Astronautics,assoc_prof,male,two_or_more,0
+engineering,Aeronautics & Astronautics,assoc_prof,female,unknown,0
+engineering,Aeronautics & Astronautics,assoc_prof,female,white,1
+engineering,Aeronautics & Astronautics,assoc_prof,male,asian,0
+engineering,Aeronautics & Astronautics,assoc_prof,male,black,0
+engineering,Aeronautics & Astronautics,assoc_prof,male,hispanic,0
+engineering,Aeronautics & Astronautics,asst_prof,female,two_or_more,0
+engineering,Aeronautics & Astronautics,assoc_prof,male,unknown,0
+engineering,Aeronautics & Astronautics,assoc_prof,male,white,4
+engineering,Aeronautics & Astronautics,asst_prof,female,asian,1
+engineering,Aeronautics & Astronautics,asst_prof,female,black,0
+engineering,Aeronautics & Astronautics,asst_prof,female,hispanic,0
+engineering,Aeronautics & Astronautics,asst_prof,male,two_or_more,0
+engineering,Aeronautics & Astronautics,asst_prof,female,unknown,0
+engineering,Aeronautics & Astronautics,asst_prof,female,white,0
+engineering,Aeronautics & Astronautics,asst_prof,male,asian,1
+engineering,Aeronautics & Astronautics,asst_prof,male,black,0
+engineering,Aeronautics & Astronautics,asst_prof,male,hispanic,0
+engineering,Aeronautics & Astronautics,full_prof,female,two_or_more,0
+engineering,Aeronautics & Astronautics,asst_prof,male,unknown,0
+engineering,Aeronautics & Astronautics,asst_prof,male,white,0
+engineering,Aeronautics & Astronautics,full_prof,female,asian,0
+engineering,Aeronautics & Astronautics,full_prof,female,black,0
+engineering,Aeronautics & Astronautics,full_prof,female,hispanic,0
+engineering,Aeronautics & Astronautics,full_prof,male,two_or_more,0
+engineering,Aeronautics & Astronautics,full_prof,female,unknown,0
+engineering,Aeronautics & Astronautics,full_prof,female,white,0
+engineering,Aeronautics & Astronautics,full_prof,male,asian,2
+engineering,Aeronautics & Astronautics,full_prof,male,black,0
+engineering,Aeronautics & Astronautics,full_prof,male,hispanic,1
+engineering,Bioengineering,assoc_prof,female,two_or_more,0
+engineering,Aeronautics & Astronautics,full_prof,male,unknown,0
+engineering,Aeronautics & Astronautics,full_prof,male,white,3
+engineering,Bioengineering,assoc_prof,female,asian,0
+engineering,Bioengineering,assoc_prof,female,black,0
+engineering,Bioengineering,assoc_prof,female,hispanic,1
+engineering,Bioengineering,assoc_prof,male,two_or_more,0
+engineering,Bioengineering,assoc_prof,female,unknown,0
+engineering,Bioengineering,assoc_prof,female,white,0
+engineering,Bioengineering,assoc_prof,male,asian,1
+engineering,Bioengineering,assoc_prof,male,black,1
+engineering,Bioengineering,assoc_prof,male,hispanic,1
+engineering,Bioengineering,asst_prof,female,two_or_more,1
+engineering,Bioengineering,assoc_prof,male,unknown,0
+engineering,Bioengineering,assoc_prof,male,white,4
+engineering,Bioengineering,asst_prof,female,asian,0
+engineering,Bioengineering,asst_prof,female,black,0
+engineering,Bioengineering,asst_prof,female,hispanic,0
+engineering,Bioengineering,asst_prof,male,two_or_more,0
+engineering,Bioengineering,asst_prof,female,unknown,0
+engineering,Bioengineering,asst_prof,female,white,2
+engineering,Bioengineering,asst_prof,male,asian,3
+engineering,Bioengineering,asst_prof,male,black,0
+engineering,Bioengineering,asst_prof,male,hispanic,0
+engineering,Bioengineering,full_prof,female,two_or_more,0
+engineering,Bioengineering,asst_prof,male,unknown,0
+engineering,Bioengineering,asst_prof,male,white,2
+engineering,Bioengineering,full_prof,female,asian,0
+engineering,Bioengineering,full_prof,female,black,0
+engineering,Bioengineering,full_prof,female,hispanic,0
+engineering,Bioengineering,full_prof,male,two_or_more,0
+engineering,Bioengineering,full_prof,female,unknown,0
+engineering,Bioengineering,full_prof,female,white,1
+engineering,Bioengineering,full_prof,male,asian,1
+engineering,Bioengineering,full_prof,male,black,1
+engineering,Bioengineering,full_prof,male,hispanic,0
+engineering,Chemical Engineering,assoc_prof,female,two_or_more,0
+engineering,Bioengineering,full_prof,male,unknown,1
+engineering,Bioengineering,full_prof,male,white,6
+engineering,Chemical Engineering,assoc_prof,female,asian,0
+engineering,Chemical Engineering,assoc_prof,female,black,0
+engineering,Chemical Engineering,assoc_prof,female,hispanic,0
+engineering,Chemical Engineering,assoc_prof,male,two_or_more,0
+engineering,Chemical Engineering,assoc_prof,female,unknown,0
+engineering,Chemical Engineering,assoc_prof,female,white,2
+engineering,Chemical Engineering,assoc_prof,male,asian,0
+engineering,Chemical Engineering,assoc_prof,male,black,0
+engineering,Chemical Engineering,assoc_prof,male,hispanic,1
+engineering,Chemical Engineering,asst_prof,female,two_or_more,0
+engineering,Chemical Engineering,assoc_prof,male,unknown,0
+engineering,Chemical Engineering,assoc_prof,male,white,1
+engineering,Chemical Engineering,asst_prof,female,asian,1
+engineering,Chemical Engineering,asst_prof,female,black,0
+engineering,Chemical Engineering,asst_prof,female,hispanic,0
+engineering,Chemical Engineering,asst_prof,male,two_or_more,0
+engineering,Chemical Engineering,asst_prof,female,unknown,0
+engineering,Chemical Engineering,asst_prof,female,white,0
+engineering,Chemical Engineering,asst_prof,male,asian,2
+engineering,Chemical Engineering,asst_prof,male,black,1
+engineering,Chemical Engineering,asst_prof,male,hispanic,0
+engineering,Chemical Engineering,full_prof,female,two_or_more,0
+engineering,Chemical Engineering,asst_prof,male,unknown,0
+engineering,Chemical Engineering,asst_prof,male,white,2
+engineering,Chemical Engineering,full_prof,female,asian,1
+engineering,Chemical Engineering,full_prof,female,black,0
+engineering,Chemical Engineering,full_prof,female,hispanic,0
+engineering,Chemical Engineering,full_prof,male,two_or_more,0
+engineering,Chemical Engineering,full_prof,female,unknown,0
+engineering,Chemical Engineering,full_prof,female,white,1
+engineering,Chemical Engineering,full_prof,male,asian,1
+engineering,Chemical Engineering,full_prof,male,black,0
+engineering,Chemical Engineering,full_prof,male,hispanic,0
+engineering,Civil and Environmental Engineering,assoc_prof,female,two_or_more,0
+engineering,Chemical Engineering,full_prof,male,unknown,0
+engineering,Chemical Engineering,full_prof,male,white,5
+engineering,Civil and Environmental Engineering,assoc_prof,female,asian,1
+engineering,Civil and Environmental Engineering,assoc_prof,female,black,0
+engineering,Civil and Environmental Engineering,assoc_prof,female,hispanic,0
+engineering,Civil and Environmental Engineering,assoc_prof,male,two_or_more,0
+engineering,Civil and Environmental Engineering,assoc_prof,female,unknown,0
+engineering,Civil and Environmental Engineering,assoc_prof,female,white,1
+engineering,Civil and Environmental Engineering,assoc_prof,male,asian,0
+engineering,Civil and Environmental Engineering,assoc_prof,male,black,0
+engineering,Civil and Environmental Engineering,assoc_prof,male,hispanic,1
+engineering,Civil and Environmental Engineering,asst_prof,female,two_or_more,0
+engineering,Civil and Environmental Engineering,assoc_prof,male,unknown,0
+engineering,Civil and Environmental Engineering,assoc_prof,male,white,2
+engineering,Civil and Environmental Engineering,asst_prof,female,asian,0
+engineering,Civil and Environmental Engineering,asst_prof,female,black,0
+engineering,Civil and Environmental Engineering,asst_prof,female,hispanic,0
+engineering,Civil and Environmental Engineering,asst_prof,male,two_or_more,0
+engineering,Civil and Environmental Engineering,asst_prof,female,unknown,1
+engineering,Civil and Environmental Engineering,asst_prof,female,white,1
+engineering,Civil and Environmental Engineering,asst_prof,male,asian,1
+engineering,Civil and Environmental Engineering,asst_prof,male,black,0
+engineering,Civil and Environmental Engineering,asst_prof,male,hispanic,0
+engineering,Civil and Environmental Engineering,full_prof,female,two_or_more,0
+engineering,Civil and Environmental Engineering,asst_prof,male,unknown,0
+engineering,Civil and Environmental Engineering,asst_prof,male,white,0
+engineering,Civil and Environmental Engineering,full_prof,female,asian,0
+engineering,Civil and Environmental Engineering,full_prof,female,black,0
+engineering,Civil and Environmental Engineering,full_prof,female,hispanic,0
+engineering,Civil and Environmental Engineering,full_prof,male,two_or_more,0
+engineering,Civil and Environmental Engineering,full_prof,female,unknown,0
+engineering,Civil and Environmental Engineering,full_prof,female,white,5
+engineering,Civil and Environmental Engineering,full_prof,male,asian,2
+engineering,Civil and Environmental Engineering,full_prof,male,black,0
+engineering,Civil and Environmental Engineering,full_prof,male,hispanic,1
+engineering,Computer Science,assoc_prof,female,two_or_more,0
+engineering,Civil and Environmental Engineering,full_prof,male,unknown,0
+engineering,Civil and Environmental Engineering,full_prof,male,white,14
+engineering,Computer Science,assoc_prof,female,asian,1
+engineering,Computer Science,assoc_prof,female,black,0
+engineering,Computer Science,assoc_prof,female,hispanic,0
+engineering,Computer Science,assoc_prof,male,two_or_more,0
+engineering,Computer Science,assoc_prof,female,unknown,0
+engineering,Computer Science,assoc_prof,female,white,1
+engineering,Computer Science,assoc_prof,male,asian,1
+engineering,Computer Science,assoc_prof,male,black,0
+engineering,Computer Science,assoc_prof,male,hispanic,0
+engineering,Computer Science,asst_prof,female,two_or_more,0
+engineering,Computer Science,assoc_prof,male,unknown,0
+engineering,Computer Science,assoc_prof,male,white,11
+engineering,Computer Science,asst_prof,female,asian,0
+engineering,Computer Science,asst_prof,female,black,0
+engineering,Computer Science,asst_prof,female,hispanic,0
+engineering,Computer Science,asst_prof,male,two_or_more,0
+engineering,Computer Science,asst_prof,female,unknown,0
+engineering,Computer Science,asst_prof,female,white,6
+engineering,Computer Science,asst_prof,male,asian,3
+engineering,Computer Science,asst_prof,male,black,0
+engineering,Computer Science,asst_prof,male,hispanic,0
+engineering,Computer Science,full_prof,female,two_or_more,0
+engineering,Computer Science,asst_prof,male,unknown,3
+engineering,Computer Science,asst_prof,male,white,7
+engineering,Computer Science,full_prof,female,asian,2
+engineering,Computer Science,full_prof,female,black,0
+engineering,Computer Science,full_prof,female,hispanic,0
+engineering,Computer Science,full_prof,male,two_or_more,0
+engineering,Computer Science,full_prof,female,unknown,0
+engineering,Computer Science,full_prof,female,white,1
+engineering,Computer Science,full_prof,male,asian,2
+engineering,Computer Science,full_prof,male,black,0
+engineering,Computer Science,full_prof,male,hispanic,0
+engineering,Electrical Engineering,assoc_prof,female,two_or_more,0
+engineering,Computer Science,full_prof,male,unknown,1
+engineering,Computer Science,full_prof,male,white,16
+engineering,Electrical Engineering,assoc_prof,female,asian,1
+engineering,Electrical Engineering,assoc_prof,female,black,0
+engineering,Electrical Engineering,assoc_prof,female,hispanic,0
+engineering,Electrical Engineering,assoc_prof,male,two_or_more,0
+engineering,Electrical Engineering,assoc_prof,female,unknown,2
+engineering,Electrical Engineering,assoc_prof,female,white,0
+engineering,Electrical Engineering,assoc_prof,male,asian,2
+engineering,Electrical Engineering,assoc_prof,male,black,0
+engineering,Electrical Engineering,assoc_prof,male,hispanic,1
+engineering,Electrical Engineering,asst_prof,female,two_or_more,0
+engineering,Electrical Engineering,assoc_prof,male,unknown,1
+engineering,Electrical Engineering,assoc_prof,male,white,2
+engineering,Electrical Engineering,asst_prof,female,asian,0
+engineering,Electrical Engineering,asst_prof,female,black,0
+engineering,Electrical Engineering,asst_prof,female,hispanic,0
+engineering,Electrical Engineering,asst_prof,male,two_or_more,0
+engineering,Electrical Engineering,asst_prof,female,unknown,1
+engineering,Electrical Engineering,asst_prof,female,white,0
+engineering,Electrical Engineering,asst_prof,male,asian,0
+engineering,Electrical Engineering,asst_prof,male,black,0
+engineering,Electrical Engineering,asst_prof,male,hispanic,0
+engineering,Electrical Engineering,full_prof,female,two_or_more,0
+engineering,Electrical Engineering,asst_prof,male,unknown,0
+engineering,Electrical Engineering,asst_prof,male,white,2
+engineering,Electrical Engineering,full_prof,female,asian,0
+engineering,Electrical Engineering,full_prof,female,black,0
+engineering,Electrical Engineering,full_prof,female,hispanic,0
+engineering,Electrical Engineering,full_prof,male,two_or_more,0
+engineering,Electrical Engineering,full_prof,female,unknown,0
+engineering,Electrical Engineering,full_prof,female,white,1
+engineering,Electrical Engineering,full_prof,male,asian,13
+engineering,Electrical Engineering,full_prof,male,black,1
+engineering,Electrical Engineering,full_prof,male,hispanic,0
+engineering,Management Science and Engineering,assoc_prof,female,two_or_more,0
+engineering,Electrical Engineering,full_prof,male,unknown,0
+engineering,Electrical Engineering,full_prof,male,white,21
+engineering,Management Science and Engineering,assoc_prof,female,asian,0
+engineering,Management Science and Engineering,assoc_prof,female,black,0
+engineering,Management Science and Engineering,assoc_prof,female,hispanic,0
+engineering,Management Science and Engineering,assoc_prof,male,two_or_more,0
+engineering,Management Science and Engineering,assoc_prof,female,unknown,0
+engineering,Management Science and Engineering,assoc_prof,female,white,1
+engineering,Management Science and Engineering,assoc_prof,male,asian,1
+engineering,Management Science and Engineering,assoc_prof,male,black,0
+engineering,Management Science and Engineering,assoc_prof,male,hispanic,0
+engineering,Management Science and Engineering,asst_prof,female,two_or_more,0
+engineering,Management Science and Engineering,assoc_prof,male,unknown,0
+engineering,Management Science and Engineering,assoc_prof,male,white,3
+engineering,Management Science and Engineering,asst_prof,female,asian,0
+engineering,Management Science and Engineering,asst_prof,female,black,0
+engineering,Management Science and Engineering,asst_prof,female,hispanic,0
+engineering,Management Science and Engineering,asst_prof,male,two_or_more,0
+engineering,Management Science and Engineering,asst_prof,female,unknown,1
+engineering,Management Science and Engineering,asst_prof,female,white,0
+engineering,Management Science and Engineering,asst_prof,male,asian,0
+engineering,Management Science and Engineering,asst_prof,male,black,0
+engineering,Management Science and Engineering,asst_prof,male,hispanic,0
+engineering,Management Science and Engineering,full_prof,female,two_or_more,0
+engineering,Management Science and Engineering,asst_prof,male,unknown,0
+engineering,Management Science and Engineering,asst_prof,male,white,3
+engineering,Management Science and Engineering,full_prof,female,asian,0
+engineering,Management Science and Engineering,full_prof,female,black,0
+engineering,Management Science and Engineering,full_prof,female,hispanic,0
+engineering,Management Science and Engineering,full_prof,male,two_or_more,0
+engineering,Management Science and Engineering,full_prof,female,unknown,0
+engineering,Management Science and Engineering,full_prof,female,white,5
+engineering,Management Science and Engineering,full_prof,male,asian,3
+engineering,Management Science and Engineering,full_prof,male,black,0
+engineering,Management Science and Engineering,full_prof,male,hispanic,1
+engineering,Materials Science & Engineering,assoc_prof,female,two_or_more,0
+engineering,Management Science and Engineering,full_prof,male,unknown,0
+engineering,Management Science and Engineering,full_prof,male,white,6
+engineering,Materials Science & Engineering,assoc_prof,female,asian,0
+engineering,Materials Science & Engineering,assoc_prof,female,black,0
+engineering,Materials Science & Engineering,assoc_prof,female,hispanic,0
+engineering,Materials Science & Engineering,assoc_prof,male,two_or_more,0
+engineering,Materials Science & Engineering,assoc_prof,female,unknown,0
+engineering,Materials Science & Engineering,assoc_prof,female,white,1
+engineering,Materials Science & Engineering,assoc_prof,male,asian,1
+engineering,Materials Science & Engineering,assoc_prof,male,black,0
+engineering,Materials Science & Engineering,assoc_prof,male,hispanic,0
+engineering,Materials Science & Engineering,asst_prof,female,two_or_more,0
+engineering,Materials Science & Engineering,assoc_prof,male,unknown,0
+engineering,Materials Science & Engineering,assoc_prof,male,white,2
+engineering,Materials Science & Engineering,asst_prof,female,asian,0
+engineering,Materials Science & Engineering,asst_prof,female,black,0
+engineering,Materials Science & Engineering,asst_prof,female,hispanic,0
+engineering,Materials Science & Engineering,asst_prof,male,two_or_more,0
+engineering,Materials Science & Engineering,asst_prof,female,unknown,0
+engineering,Materials Science & Engineering,asst_prof,female,white,1
+engineering,Materials Science & Engineering,asst_prof,male,asian,2
+engineering,Materials Science & Engineering,asst_prof,male,black,0
+engineering,Materials Science & Engineering,asst_prof,male,hispanic,2
+engineering,Materials Science & Engineering,full_prof,female,two_or_more,0
+engineering,Materials Science & Engineering,asst_prof,male,unknown,0
+engineering,Materials Science & Engineering,asst_prof,male,white,1
+engineering,Materials Science & Engineering,full_prof,female,asian,0
+engineering,Materials Science & Engineering,full_prof,female,black,0
+engineering,Materials Science & Engineering,full_prof,female,hispanic,0
+engineering,Materials Science & Engineering,full_prof,male,two_or_more,0
+engineering,Materials Science & Engineering,full_prof,female,unknown,0
+engineering,Materials Science & Engineering,full_prof,female,white,2
+engineering,Materials Science & Engineering,full_prof,male,asian,2
+engineering,Materials Science & Engineering,full_prof,male,black,0
+engineering,Materials Science & Engineering,full_prof,male,hispanic,0
+engineering,Mechanical Engineering,assoc_prof,female,two_or_more,0
+engineering,Materials Science & Engineering,full_prof,male,unknown,0
+engineering,Materials Science & Engineering,full_prof,male,white,6
+engineering,Mechanical Engineering,assoc_prof,female,asian,1
+engineering,Mechanical Engineering,assoc_prof,female,black,0
+engineering,Mechanical Engineering,assoc_prof,female,hispanic,0
+engineering,Mechanical Engineering,assoc_prof,male,two_or_more,0
+engineering,Mechanical Engineering,assoc_prof,female,unknown,0
+engineering,Mechanical Engineering,assoc_prof,female,white,0
+engineering,Mechanical Engineering,assoc_prof,male,asian,1
+engineering,Mechanical Engineering,assoc_prof,male,black,0
+engineering,Mechanical Engineering,assoc_prof,male,hispanic,0
+engineering,Mechanical Engineering,asst_prof,female,two_or_more,0
+engineering,Mechanical Engineering,assoc_prof,male,unknown,0
+engineering,Mechanical Engineering,assoc_prof,male,white,3
+engineering,Mechanical Engineering,asst_prof,female,asian,1
+engineering,Mechanical Engineering,asst_prof,female,black,0
+engineering,Mechanical Engineering,asst_prof,female,hispanic,0
+engineering,Mechanical Engineering,asst_prof,male,two_or_more,0
+engineering,Mechanical Engineering,asst_prof,female,unknown,1
+engineering,Mechanical Engineering,asst_prof,female,white,1
+engineering,Mechanical Engineering,asst_prof,male,asian,0
+engineering,Mechanical Engineering,asst_prof,male,black,1
+engineering,Mechanical Engineering,asst_prof,male,hispanic,0
+engineering,Mechanical Engineering,full_prof,female,two_or_more,0
+engineering,Mechanical Engineering,asst_prof,male,unknown,0
+engineering,Mechanical Engineering,asst_prof,male,white,1
+engineering,Mechanical Engineering,full_prof,female,asian,2
+engineering,Mechanical Engineering,full_prof,female,black,0
+engineering,Mechanical Engineering,full_prof,female,hispanic,0
+engineering,Mechanical Engineering,full_prof,male,two_or_more,0
+engineering,Mechanical Engineering,full_prof,female,unknown,0
+engineering,Mechanical Engineering,full_prof,female,white,2
+engineering,Mechanical Engineering,full_prof,male,asian,3
+engineering,Mechanical Engineering,full_prof,male,black,0
+engineering,Mechanical Engineering,full_prof,male,hispanic,2
+engineering,Energy Resources Engineering,assoc_prof,female,two_or_more,0
+engineering,Mechanical Engineering,full_prof,male,unknown,0
+engineering,Mechanical Engineering,full_prof,male,white,17
+engineering,Energy Resources Engineering,assoc_prof,female,asian,0
+engineering,Energy Resources Engineering,assoc_prof,female,black,0
+engineering,Energy Resources Engineering,assoc_prof,female,hispanic,0
+engineering,Energy Resources Engineering,assoc_prof,male,two_or_more,0
+engineering,Energy Resources Engineering,assoc_prof,female,unknown,1
+engineering,Energy Resources Engineering,assoc_prof,female,white,0
+engineering,Energy Resources Engineering,assoc_prof,male,asian,0
+engineering,Energy Resources Engineering,assoc_prof,male,black,0
+engineering,Energy Resources Engineering,assoc_prof,male,hispanic,0
+engineering,Energy Resources Engineering,asst_prof,female,two_or_more,0
+engineering,Energy Resources Engineering,assoc_prof,male,unknown,1
+engineering,Energy Resources Engineering,assoc_prof,male,white,0
+engineering,Energy Resources Engineering,asst_prof,female,asian,0
+engineering,Energy Resources Engineering,asst_prof,female,black,0
+engineering,Energy Resources Engineering,asst_prof,female,hispanic,0
+engineering,Energy Resources Engineering,asst_prof,male,two_or_more,0
+engineering,Energy Resources Engineering,asst_prof,female,unknown,2
+engineering,Energy Resources Engineering,asst_prof,female,white,0
+engineering,Energy Resources Engineering,asst_prof,male,asian,0
+engineering,Energy Resources Engineering,asst_prof,male,black,0
+engineering,Energy Resources Engineering,asst_prof,male,hispanic,0
+engineering,Energy Resources Engineering,full_prof,female,two_or_more,0
+engineering,Energy Resources Engineering,asst_prof,male,unknown,0
+engineering,Energy Resources Engineering,asst_prof,male,white,0
+engineering,Energy Resources Engineering,full_prof,female,asian,0
+engineering,Energy Resources Engineering,full_prof,female,black,0
+engineering,Energy Resources Engineering,full_prof,female,hispanic,0
+engineering,Energy Resources Engineering,full_prof,male,two_or_more,0
+engineering,Energy Resources Engineering,full_prof,female,unknown,2
+engineering,Energy Resources Engineering,full_prof,female,white,0
+engineering,Energy Resources Engineering,full_prof,male,asian,0
+engineering,Energy Resources Engineering,full_prof,male,black,0
+engineering,Energy Resources Engineering,full_prof,male,hispanic,0
+engineering,Aeronautics & Astronautics,assoc_prof,female,two_or_more,0
+engineering,Energy Resources Engineering,full_prof,male,unknown,5
+engineering,Energy Resources Engineering,full_prof,male,white,0

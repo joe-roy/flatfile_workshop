@@ -1,0 +1,718 @@
+﻿Type,Program,Class,Degree_level,Status,Gender,Ethnicity,Count
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,female,hispanic,1
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,female,nonresident_alien,1
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,female,two_or_more,1
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,male,asian,3
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,male,hispanic,1
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,male,two_or_more,2
+Engineering,Aeronautics and Astronautics B.S.,freshman,bachelors,full_time,male,white,1
+Engineering,Aeronautics and Astronautics B.S.,junior,bachelors,full_time,male,black,2
+Engineering,Aeronautics and Astronautics B.S.,junior,bachelors,full_time,male,white,2
+Engineering,Aeronautics and Astronautics B.S.,senior,bachelors,full_time,female,black,1
+Engineering,Aeronautics and Astronautics B.S.,senior,bachelors,full_time,female,two_or_more,1
+Engineering,Aeronautics and Astronautics B.S.,senior,bachelors,full_time,male,asian,1
+Engineering,Aeronautics and Astronautics B.S.,senior,bachelors,full_time,male,hispanic,1
+Engineering,Aeronautics and Astronautics B.S.,senior,bachelors,full_time,male,white,1
+Engineering,Aeronautics and Astronautics B.S.,sophmore,bachelors,full_time,female,white,3
+Engineering,Aeronautics and Astronautics B.S.,sophmore,bachelors,full_time,male,hispanic,2
+Engineering,Aeronautics and Astronautics B.S.,sophmore,bachelors,full_time,male,nonresident_alien,1
+Engineering,Aeronautics and Astronautics B.S.,sophmore,bachelors,full_time,male,two_or_more,1
+Engineering,Aeronautics and Astronautics B.S.,sophmore,bachelors,full_time,male,white,3
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,asian,3
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,black,1
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,hispanic,1
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,nonresident_alien,6
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,two_or_more,1
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,female,white,4
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,asian,11
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,black,3
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,hispanic,7
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,nonresident_alien,17
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,two_or_more,5
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,full_time,male,white,28
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,part_time,female,asian,1
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,part_time,female,white,2
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,part_time,male,asian,7
+Engineering,Aeronautics and Astronautics M.S.,graduate,masters,part_time,male,white,6
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,asian,3
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,black,1
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,hispanic,2
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,10
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,two_or_more,2
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,female,white,7
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,asian,6
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,black,2
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,hispanic,7
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,26
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,two_or_more,5
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,full_time,male,white,24
+Engineering,Aeronautics and Astronautics Ph.D.,graduate,doctoral,part_time,male,white,1
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,female,asian,2
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,female,hispanic,3
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,female,nonresident_alien,4
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,female,white,4
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,male,asian,1
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,male,black,1
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,male,hispanic,2
+Engineering,Bioengineering B.S.,freshman,bachelors,full_time,male,white,4
+Engineering,Bioengineering B.S.,junior,bachelors,full_time,female,white,3
+Engineering,Bioengineering B.S.,junior,bachelors,full_time,male,american_indian,1
+Engineering,Bioengineering B.S.,junior,bachelors,full_time,male,hispanic,1
+Engineering,Bioengineering B.S.,junior,bachelors,full_time,male,white,1
+Engineering,Bioengineering B.S.,senior,bachelors,full_time,female,asian,1
+Engineering,Bioengineering B.S.,senior,bachelors,full_time,female,two_or_more,1
+Engineering,Bioengineering B.S.,senior,bachelors,full_time,male,asian,2
+Engineering,Bioengineering B.S.,senior,bachelors,full_time,male,white,1
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,female,asian,2
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,female,black,2
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,female,hispanic,1
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,female,two_or_more,4
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,female,white,6
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,american_indian,1
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,asian,3
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,black,1
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,hispanic,2
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,5
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,two_or_more,2
+Engineering,Bioengineering B.S.,sophmore,bachelors,full_time,male,white,9
+Engineering,Bioengineering M.S.,graduate,masters,full_time,female,asian,2
+Engineering,Bioengineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Bioengineering M.S.,graduate,masters,full_time,female,hispanic,1
+Engineering,Bioengineering M.S.,graduate,masters,full_time,female,nonresident_alien,6
+Engineering,Bioengineering M.S.,graduate,masters,full_time,female,white,1
+Engineering,Bioengineering M.S.,graduate,masters,full_time,male,nonresident_alien,1
+Engineering,Bioengineering M.S.,graduate,masters,full_time,male,white,4
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,asian,18
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,black,2
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,hispanic,4
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,21
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,4
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,female,white,24
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,asian,18
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,black,2
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,hispanic,7
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,24
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,4
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,unknown,3
+Engineering,Bioengineering Ph.D.,graduate,doctoral,full_time,male,white,28
+Engineering,Chemical Engineering B.S.,freshman,bachelors,full_time,female,asian,1
+Engineering,Chemical Engineering B.S.,freshman,bachelors,full_time,female,hispanic,1
+Engineering,Chemical Engineering B.S.,freshman,bachelors,full_time,female,white,1
+Engineering,Chemical Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,2
+Engineering,Chemical Engineering B.S.,junior,bachelors,full_time,female,asian,1
+Engineering,Chemical Engineering B.S.,junior,bachelors,full_time,female,white,2
+Engineering,Chemical Engineering B.S.,junior,bachelors,full_time,male,american_indian,1
+Engineering,Chemical Engineering B.S.,junior,bachelors,full_time,male,hispanic,1
+Engineering,Chemical Engineering B.S.,junior,bachelors,full_time,male,nonresident_alien,1
+Engineering,Chemical Engineering B.S.,senior,bachelors,full_time,male,asian,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,female,asian,2
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,female,black,2
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,female,nonresident_alien,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,female,white,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,male,asian,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,male,black,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,3
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,1
+Engineering,Chemical Engineering B.S.,sophmore,bachelors,full_time,male,white,2
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,female,two_or_more,1
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,female,white,1
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,male,asian,1
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,male,hispanic,2
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,2
+Engineering,Chemical Engineering M.S.,graduate,masters,full_time,male,white,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,female,asian,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,2
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,female,two_or_more,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,female,white,3
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,male,asian,2
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,male,hispanic,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,male,unknown,1
+Engineering,Chemical Engineering M.S.,graduate,masters,part_time,male,white,2
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,asian,14
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,black,3
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,hispanic,6
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,13
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,4
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,unknown,1
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,female,white,18
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,asian,12
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,black,2
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,5
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,14
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,1
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,unknown,3
+Engineering,Chemical Engineering Ph.D.,graduate,doctoral,full_time,male,white,20
+Engineering,Civil Engineering B.S.,freshman,bachelors,full_time,female,hispanic,1
+Engineering,Civil Engineering B.S.,freshman,bachelors,full_time,female,nonresident_alien,1
+Engineering,Civil Engineering B.S.,freshman,bachelors,full_time,male,asian,1
+Engineering,Civil Engineering B.S.,junior,bachelors,full_time,male,asian,1
+Engineering,Civil Engineering B.S.,junior,bachelors,full_time,male,two_or_more,1
+Engineering,Civil Engineering B.S.,junior,bachelors,full_time,male,white,1
+Engineering,Civil Engineering B.S.,sophmore,bachelors,full_time,female,black,2
+Engineering,Civil Engineering B.S.,sophmore,bachelors,full_time,female,white,1
+Engineering,Civil Engineering B.S.,sophmore,bachelors,full_time,male,asian,1
+Engineering,Civil Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,2
+Engineering,Civil Engineering B.S.,sophmore,bachelors,full_time,male,unknown,1
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,american_indian,2
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,asian,21
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,black,4
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,hispanic,8
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,68
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,pacific_islander,1
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,two_or_more,5
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,unknown,1
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,female,white,30
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,asian,11
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,black,6
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,hispanic,11
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,113
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,two_or_more,5
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,full_time,male,white,49
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,part_time,female,american_indian,1
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,3
+Engineering,Civil and Environmental Engineering M.S.,graduate,masters,part_time,female,white,2
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,asian,4
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,hispanic,5
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,25
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,1
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,unknown,1
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,female,white,28
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,asian,5
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,black,2
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,6
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,36
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,1
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,full_time,male,white,15
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,part_time,female,nonresident_alien,1
+Engineering,Civil and Environmental Engineering Ph.D.,graduate,doctoral,part_time,male,asian,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,female,asian,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,female,hispanic,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,16
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,female,white,4
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,male,asian,12
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,male,hispanic,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,31
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,male,two_or_more,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,full_time,male,white,8
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,part_time,male,asian,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,1
+Engineering,Computational and Mathematical Engineering M.S.,graduate,masters,part_time,male,white,2
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,female,black,1
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,9
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,2
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,female,unknown,1
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,female,white,9
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,male,asian,8
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,1
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,26
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,1
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,full_time,male,white,13
+Engineering,Computational and Mathematical Engineering Ph.D.,graduate,doctoral,part_time,male,white,1
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,asian,45
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,black,1
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,hispanic,11
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,nonresident_alien,20
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,pacific_islander,1
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,two_or_more,8
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,female,white,11
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,american_indian,1
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,asian,45
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,black,8
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,hispanic,21
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,nonresident_alien,31
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,two_or_more,11
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,unknown,2
+Engineering,Computer Science B.S.,freshman,bachelors,full_time,male,white,17
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,asian,14
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,black,1
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,hispanic,2
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,nonresident_alien,4
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,two_or_more,3
+Engineering,Computer Science B.S.,junior,bachelors,full_time,female,white,4
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,asian,15
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,black,2
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,hispanic,9
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,nonresident_alien,6
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,pacific_islander,1
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,two_or_more,4
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,unknown,1
+Engineering,Computer Science B.S.,junior,bachelors,full_time,male,white,18
+Engineering,Computer Science B.S.,senior,bachelors,full_time,female,asian,17
+Engineering,Computer Science B.S.,senior,bachelors,full_time,female,black,1
+Engineering,Computer Science B.S.,senior,bachelors,full_time,female,hispanic,1
+Engineering,Computer Science B.S.,senior,bachelors,full_time,female,nonresident_alien,2
+Engineering,Computer Science B.S.,senior,bachelors,full_time,female,white,3
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,american_indian,1
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,asian,24
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,black,3
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,hispanic,5
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,nonresident_alien,15
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,two_or_more,4
+Engineering,Computer Science B.S.,senior,bachelors,full_time,male,white,5
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,asian,42
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,black,3
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,hispanic,11
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,nonresident_alien,14
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,two_or_more,11
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,female,white,17
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,american_indian,1
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,asian,67
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,black,9
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,hispanic,29
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,nonresident_alien,31
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,pacific_islander,1
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,two_or_more,17
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,unknown,3
+Engineering,Computer Science B.S.,sophmore,bachelors,full_time,male,white,44
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,asian,45
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,black,4
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,hispanic,7
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,nonresident_alien,50
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,two_or_more,6
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,unknown,1
+Engineering,Computer Science M.S.,graduate,masters,full_time,female,white,16
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,asian,67
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,black,6
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,hispanic,15
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,nonresident_alien,82
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,pacific_islander,1
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,two_or_more,8
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,unknown,6
+Engineering,Computer Science M.S.,graduate,masters,full_time,male,white,43
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,asian,15
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,hispanic,2
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,nonresident_alien,7
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,two_or_more,2
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,unknown,3
+Engineering,Computer Science M.S.,graduate,masters,part_time,female,white,3
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,asian,18
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,hispanic,2
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,nonresident_alien,14
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,two_or_more,2
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,unknown,4
+Engineering,Computer Science M.S.,graduate,masters,part_time,male,white,17
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,asian,34
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,black,1
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,37
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,two_or_more,1
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,unknown,3
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,female,white,25
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,asian,63
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,black,3
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,hispanic,4
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,106
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,two_or_more,7
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,unknown,4
+Engineering,Computer Science Ph.D.,graduate,doctoral,full_time,male,white,61
+Engineering,Computer Science Ph.D.,graduate,doctoral,part_time,male,white,1
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,female,asian,3
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,female,black,1
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,female,nonresident_alien,2
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,female,two_or_more,1
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,female,white,4
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,asian,9
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,black,1
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,hispanic,4
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,nonresident_alien,3
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,1
+Engineering,Electrical Engineering B.S.,freshman,bachelors,full_time,male,white,3
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,female,asian,1
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,female,nonresident_alien,1
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,female,white,3
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,male,hispanic,2
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,male,nonresident_alien,2
+Engineering,Electrical Engineering B.S.,junior,bachelors,full_time,male,white,2
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,female,asian,1
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,female,hispanic,1
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,female,nonresident_alien,1
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,female,two_or_more,1
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,female,white,1
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,male,asian,3
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,male,hispanic,3
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,male,nonresident_alien,2
+Engineering,Electrical Engineering B.S.,senior,bachelors,full_time,male,white,1
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,female,asian,3
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,3
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,female,nonresident_alien,3
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,female,two_or_more,4
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,female,white,4
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,american_indian,1
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,asian,7
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,black,2
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,6
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,5
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,1
+Engineering,Electrical Engineering B.S.,sophmore,bachelors,full_time,male,white,7
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,asian,17
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,hispanic,3
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,38
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,two_or_more,3
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,unknown,2
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,female,white,9
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,asian,13
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,black,5
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,hispanic,6
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,30
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,two_or_more,1
+Engineering,Electrical Engineering M.S.,graduate,masters,full_time,male,white,9
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,female,asian,3
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,4
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,female,unknown,1
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,female,white,3
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,male,asian,11
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,male,hispanic,5
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,10
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,male,two_or_more,1
+Engineering,Electrical Engineering M.S.,graduate,masters,part_time,male,white,7
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,asian,18
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,black,2
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,hispanic,6
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,53
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,5
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,unknown,2
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,female,white,24
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,asian,50
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,black,6
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,12
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,117
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,9
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,unknown,1
+Engineering,Electrical Engineering Ph.D.,graduate,doctoral,full_time,male,white,55
+Engineering,Energy Resources Engineering B.S.,freshman,bachelors,full_time,male,nonresident_alien,1
+Engineering,Energy Resources Engineering B.S.,junior,bachelors,full_time,male,white,1
+Engineering,Energy Resources Engineering B.S.,senior,bachelors,full_time,female,hispanic,1
+Engineering,Energy Resources Engineering B.S.,senior,bachelors,full_time,male,hispanic,1
+Engineering,Energy Resources Engineering B.S.,sophmore,bachelors,full_time,female,asian,1
+Engineering,Energy Resources Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,1
+Engineering,Energy Resources Engineering B.S.,sophmore,bachelors,full_time,male,black,1
+Engineering,Energy Resources Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,1
+Engineering,Energy Resources Engineering B.S.,sophmore,bachelors,full_time,male,white,2
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,female,hispanic,1
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,5
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,female,white,1
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,male,asian,1
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,5
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,male,two_or_more,1
+Engineering,Energy Resources Engineering M.S.,graduate,masters,full_time,male,white,1
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,female,asian,1
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,19
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,female,white,3
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,male,asian,4
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,1
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,32
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,1
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,full_time,male,white,4
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,part_time,female,asian,1
+Engineering,Energy Resources Engineering Ph.D.,graduate,doctoral,part_time,male,nonresident_alien,1
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,american_indian,1
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,asian,7
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,black,3
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,hispanic,5
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,two_or_more,4
+Engineering,Engineering B.S.,freshman,bachelors,full_time,female,white,9
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,asian,4
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,black,2
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,hispanic,4
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,nonresident_alien,1
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,1
+Engineering,Engineering B.S.,freshman,bachelors,full_time,male,white,5
+Engineering,Engineering B.S.,junior,bachelors,full_time,female,asian,7
+Engineering,Engineering B.S.,junior,bachelors,full_time,female,hispanic,2
+Engineering,Engineering B.S.,junior,bachelors,full_time,female,two_or_more,2
+Engineering,Engineering B.S.,junior,bachelors,full_time,female,white,2
+Engineering,Engineering B.S.,junior,bachelors,full_time,male,asian,1
+Engineering,Engineering B.S.,junior,bachelors,full_time,male,black,1
+Engineering,Engineering B.S.,junior,bachelors,full_time,male,hispanic,4
+Engineering,Engineering B.S.,junior,bachelors,full_time,male,two_or_more,2
+Engineering,Engineering B.S.,junior,bachelors,full_time,male,white,3
+Engineering,Engineering B.S.,senior,bachelors,full_time,female,asian,1
+Engineering,Engineering B.S.,senior,bachelors,full_time,female,hispanic,1
+Engineering,Engineering B.S.,senior,bachelors,full_time,female,white,1
+Engineering,Engineering B.S.,senior,bachelors,full_time,male,hispanic,2
+Engineering,Engineering B.S.,senior,bachelors,full_time,male,two_or_more,2
+Engineering,Engineering B.S.,senior,bachelors,full_time,male,white,4
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,american_indian,1
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,asian,10
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,black,4
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,10
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,nonresident_alien,2
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,two_or_more,5
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,female,white,15
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,asian,7
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,black,3
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,7
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,2
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,6
+Engineering,Engineering B.S.,sophmore,bachelors,full_time,male,white,9
+Engineering,Engineering M.S.,graduate,masters,full_time,female,asian,1
+Engineering,Engineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Engineering M.S.,graduate,masters,full_time,female,hispanic,2
+Engineering,Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,4
+Engineering,Engineering M.S.,graduate,masters,full_time,female,white,6
+Engineering,Engineering M.S.,graduate,masters,full_time,male,asian,3
+Engineering,Engineering M.S.,graduate,masters,full_time,male,black,1
+Engineering,Engineering M.S.,graduate,masters,full_time,male,hispanic,1
+Engineering,Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,3
+Engineering,Engineering M.S.,graduate,masters,full_time,male,white,4
+Engineering,Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,1
+Engineering,Environmental Systems Engineering B.S.,freshman,bachelors,full_time,female,two_or_more,1
+Engineering,Environmental Systems Engineering B.S.,junior,bachelors,full_time,female,hispanic,1
+Engineering,Environmental Systems Engineering B.S.,junior,bachelors,full_time,male,white,3
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,female,asian,2
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,1
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,female,two_or_more,1
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,female,white,3
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,2
+Engineering,Environmental Systems Engineering B.S.,sophmore,bachelors,full_time,male,white,1
+Engineering,Individually Designed Major B.S.,junior,bachelors,full_time,male,asian,3
+Engineering,Individually Designed Major B.S.,junior,bachelors,full_time,male,white,2
+Engineering,Individually Designed Major B.S.,senior,bachelors,full_time,male,two_or_more,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,female,asian,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,female,hispanic,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,female,white,3
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,male,asian,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,male,black,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,male,two_or_more,1
+Engineering,Individually Designed Major B.S.,sophmore,bachelors,full_time,male,white,1
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,asian,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,black,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,hispanic,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,nonresident_alien,1
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,two_or_more,1
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,female,white,11
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,asian,5
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,black,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,hispanic,3
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,nonresident_alien,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,2
+Engineering,Management Science and Engineering B.S.,freshman,bachelors,full_time,male,white,13
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,female,american_indian,1
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,female,asian,2
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,female,two_or_more,1
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,female,white,3
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,male,asian,1
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,male,hispanic,3
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,male,nonresident_alien,1
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,male,two_or_more,3
+Engineering,Management Science and Engineering B.S.,junior,bachelors,full_time,male,white,9
+Engineering,Management Science and Engineering B.S.,senior,bachelors,full_time,female,asian,1
+Engineering,Management Science and Engineering B.S.,senior,bachelors,full_time,female,nonresident_alien,1
+Engineering,Management Science and Engineering B.S.,senior,bachelors,full_time,female,two_or_more,1
+Engineering,Management Science and Engineering B.S.,senior,bachelors,full_time,male,two_or_more,1
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,asian,6
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,black,1
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,4
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,nonresident_alien,4
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,two_or_more,3
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,female,white,6
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,asian,3
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,black,2
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,4
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,5
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,2
+Engineering,Management Science and Engineering B.S.,sophmore,bachelors,full_time,male,white,15
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,female,asian,11
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,female,hispanic,3
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,24
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,female,white,16
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,asian,10
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,black,1
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,hispanic,7
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,26
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,two_or_more,1
+Engineering,Management Science and Engineering M.S.,graduate,masters,full_time,male,white,13
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,female,asian,2
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,5
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,female,two_or_more,1
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,female,unknown,2
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,female,white,2
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,male,asian,2
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,male,hispanic,4
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,7
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,male,two_or_more,1
+Engineering,Management Science and Engineering M.S.,graduate,masters,part_time,male,white,2
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,female,asian,3
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,female,black,2
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,18
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,1
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,female,white,6
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,asian,4
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,black,2
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,1
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,27
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,unknown,1
+Engineering,Management Science and Engineering Ph.D.,graduate,doctoral,full_time,male,white,10
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,female,black,1
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,female,hispanic,2
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,female,white,2
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,male,asian,3
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,male,black,1
+Engineering,Materials Science and Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,1
+Engineering,Materials Science and Engineering B.S.,senior,bachelors,full_time,female,white,2
+Engineering,Materials Science and Engineering B.S.,senior,bachelors,full_time,male,nonresident_alien,1
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,female,asian,1
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,female,black,2
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,2
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,female,nonresident_alien,2
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,male,asian,2
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,2
+Engineering,Materials Science and Engineering B.S.,sophmore,bachelors,full_time,male,white,2
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,female,asian,1
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,female,hispanic,1
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,16
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,female,unknown,1
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,female,white,3
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,male,asian,6
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,male,hispanic,1
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,18
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,male,two_or_more,2
+Engineering,Materials Science and Engineering M.S.,graduate,masters,full_time,male,white,3
+Engineering,Materials Science and Engineering M.S.,graduate,masters,part_time,female,nonresident_alien,1
+Engineering,Materials Science and Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,2
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,american_indian,1
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,asian,11
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,black,2
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,hispanic,3
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,18
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,6
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,female,white,15
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,asian,16
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,black,4
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,11
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,40
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,3
+Engineering,Materials Science and Engineering Ph.D.,graduate,doctoral,full_time,male,white,29
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,female,asian,8
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,female,hispanic,1
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,female,nonresident_alien,3
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,female,two_or_more,1
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,female,white,2
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,asian,1
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,black,3
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,hispanic,3
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,nonresident_alien,1
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,two_or_more,1
+Engineering,Mechanical Engineering B.S.,freshman,bachelors,full_time,male,white,8
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,female,hispanic,2
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,female,two_or_more,2
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,female,white,2
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,male,asian,4
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,male,hispanic,4
+Engineering,Mechanical Engineering B.S.,junior,bachelors,full_time,male,white,5
+Engineering,Mechanical Engineering B.S.,senior,bachelors,full_time,female,nonresident_alien,1
+Engineering,Mechanical Engineering B.S.,senior,bachelors,full_time,female,white,2
+Engineering,Mechanical Engineering B.S.,senior,bachelors,full_time,male,asian,1
+Engineering,Mechanical Engineering B.S.,senior,bachelors,full_time,male,hispanic,1
+Engineering,Mechanical Engineering B.S.,senior,bachelors,full_time,male,white,1
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,female,asian,3
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,female,hispanic,6
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,female,two_or_more,2
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,female,white,5
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,asian,3
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,black,2
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,hispanic,12
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,nonresident_alien,1
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,two_or_more,2
+Engineering,Mechanical Engineering B.S.,sophmore,bachelors,full_time,male,white,10
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,asian,9
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,black,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,hispanic,13
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,21
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,two_or_more,3
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,female,white,14
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,asian,16
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,black,2
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,hispanic,12
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,49
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,two_or_more,4
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,unknown,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,full_time,male,white,25
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,female,asian,2
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,female,two_or_more,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,female,white,3
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,asian,3
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,black,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,hispanic,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,nonresident_alien,2
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,two_or_more,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,unknown,1
+Engineering,Mechanical Engineering M.S.,graduate,masters,part_time,male,white,8
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,asian,19
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,black,7
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,hispanic,5
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,nonresident_alien,26
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,two_or_more,5
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,unknown,2
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,female,white,20
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,american_indian,1
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,asian,26
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,black,4
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,hispanic,15
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,66
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,two_or_more,11
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,unknown,1
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,full_time,male,white,56
+Engineering,Mechanical Engineering Ph.D.,graduate,doctoral,part_time,male,white,1
+Engineering,Petroleum Engineering M.S.,graduate,masters,full_time,female,nonresident_alien,1
+Engineering,Petroleum Engineering M.S.,graduate,masters,full_time,male,nonresident_alien,1
+Engineering,Petroleum Engineering Ph.D.,graduate,doctoral,full_time,male,nonresident_alien,4
+Engineering,Petroleum Engineering Ph.D.,graduate,doctoral,full_time,male,white,1
+Engineering,Undeclared,freshman,bachelors,full_time,female,american_indian,2
+Engineering,Undeclared,freshman,bachelors,full_time,female,asian,25
+Engineering,Undeclared,freshman,bachelors,full_time,female,black,16
+Engineering,Undeclared,freshman,bachelors,full_time,female,hispanic,24
+Engineering,Undeclared,freshman,bachelors,full_time,female,nonresident_alien,10
+Engineering,Undeclared,freshman,bachelors,full_time,female,pacific_islander,2
+Engineering,Undeclared,freshman,bachelors,full_time,female,two_or_more,11
+Engineering,Undeclared,freshman,bachelors,full_time,female,unknown,1
+Engineering,Undeclared,freshman,bachelors,full_time,female,white,28
+Engineering,Undeclared,freshman,bachelors,full_time,male,american_indian,2
+Engineering,Undeclared,freshman,bachelors,full_time,male,asian,54
+Engineering,Undeclared,freshman,bachelors,full_time,male,black,12
+Engineering,Undeclared,freshman,bachelors,full_time,male,hispanic,43
+Engineering,Undeclared,freshman,bachelors,full_time,male,nonresident_alien,18
+Engineering,Undeclared,freshman,bachelors,full_time,male,two_or_more,15
+Engineering,Undeclared,freshman,bachelors,full_time,male,white,62
+Engineering,Undeclared,junior,bachelors,full_time,female,hispanic,1
+Engineering,Undeclared,junior,bachelors,full_time,female,two_or_more,1
+Engineering,Undeclared,junior,bachelors,full_time,female,white,1
+Engineering,Undeclared,junior,bachelors,full_time,male,asian,2
+Engineering,Undeclared,junior,bachelors,full_time,male,black,1
+Engineering,Undeclared,junior,bachelors,full_time,male,white,2
+Engineering,Undeclared,senior,bachelors,full_time,female,american_indian,7
+Engineering,Undeclared,senior,bachelors,full_time,female,asian,239
+Engineering,Undeclared,senior,bachelors,full_time,female,black,69
+Engineering,Undeclared,senior,bachelors,full_time,female,hispanic,132
+Engineering,Undeclared,senior,bachelors,full_time,female,nonresident_alien,86
+Engineering,Undeclared,senior,bachelors,full_time,female,pacific_islander,1
+Engineering,Undeclared,senior,bachelors,full_time,female,two_or_more,66
+Engineering,Undeclared,senior,bachelors,full_time,female,unknown,3
+Engineering,Undeclared,senior,bachelors,full_time,female,white,142
+Engineering,Undeclared,senior,bachelors,full_time,male,american_indian,6
+Engineering,Undeclared,senior,bachelors,full_time,male,asian,334
+Engineering,Undeclared,senior,bachelors,full_time,male,black,79
+Engineering,Undeclared,senior,bachelors,full_time,male,hispanic,197
+Engineering,Undeclared,senior,bachelors,full_time,male,nonresident_alien,131
+Engineering,Undeclared,senior,bachelors,full_time,male,pacific_islander,1
+Engineering,Undeclared,senior,bachelors,full_time,male,two_or_more,90
+Engineering,Undeclared,senior,bachelors,full_time,male,unknown,3
+Engineering,Undeclared,senior,bachelors,full_time,male,white,243
+Engineering,Undeclared,sophmore,bachelors,full_time,female,asian,2
+Engineering,Undeclared,sophmore,bachelors,full_time,female,hispanic,3
+Engineering,Undeclared,sophmore,bachelors,full_time,female,nonresident_alien,4
+Engineering,Undeclared,sophmore,bachelors,full_time,female,two_or_more,2
+Engineering,Undeclared,sophmore,bachelors,full_time,female,white,1
+Engineering,Undeclared,sophmore,bachelors,full_time,male,american_indian,1
+Engineering,Undeclared,sophmore,bachelors,full_time,male,asian,2
+Engineering,Undeclared,sophmore,bachelors,full_time,male,black,4
+Engineering,Undeclared,sophmore,bachelors,full_time,male,hispanic,7
+Engineering,Undeclared,sophmore,bachelors,full_time,male,nonresident_alien,3
+Engineering,Undeclared,sophmore,bachelors,full_time,male,two_or_more,2
+Engineering,Undeclared,sophmore,bachelors,full_time,male,unknown,1
+Engineering,Undeclared,sophmore,bachelors,full_time,male,white,8
